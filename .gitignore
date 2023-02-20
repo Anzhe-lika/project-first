@@ -1,6 +1,6 @@
-*.iml
-.idea
-out
-target
+*.iml/
+.idea/
+out/
+target/
 .xml/
 
